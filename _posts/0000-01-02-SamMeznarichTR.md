@@ -1,8 +1,8 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "When the dark clouds come, keep going"
 ---
-"When the dark clouds come, keep going"
+
 ---
 Use right arrow to continue,
 
