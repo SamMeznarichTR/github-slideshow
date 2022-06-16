@@ -4,4 +4,6 @@ title: "Welcome to our second slide!"
 ---
 "When the dark clouds come, keep going"
 ---
-Use the left arrow to go back!
+Use roght arrow to continue,
+
+use the left arrow to go back!
